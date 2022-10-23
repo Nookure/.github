@@ -1,4 +1,3 @@
-# Minearte ❤ Open Source
-Welcome to the official Minearte plugin repository
+# XYZCommunity
 
-![](https://komarev.com/ghpvc/?username=Minearte&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=XYZCommunity&color=blueviolet)
