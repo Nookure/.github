@@ -2,9 +2,9 @@
 <h1 align="center">Welcome to Nookure</h1>
 <h3 align="center">Where your ideas turn code ⚙️</h3>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=XYZCommunity&color=red" alt="Profile views">
-</div>
+</p>
 
 This is the official GitHub organisation for Nookure. Here, you will be able to find some of our open source projects, such as NookTheme. Please note that some repositories are private and are only visible to buyers.
 
