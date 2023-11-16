@@ -4,6 +4,11 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=XYZCommunity&color=red" alt="Profile views">
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white" alt="Profile views">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=whit">
+    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
 This is the official GitHub organisation for Nookure. Here, you will be able to find some of our open source projects, such as NookTheme. Please note that some repositories are private and are only visible to buyers.
