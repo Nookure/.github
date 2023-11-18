@@ -4,6 +4,9 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=XYZCommunity&color=red" alt="Profile views">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white" alt="Profile views">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=whit">
     <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white">
